@@ -1,4 +1,4 @@
-# Hospital Emergency Wait Time Prediction
+# Hospital Emergency Waiting Time Prediction
 
 ## Project Overview
 This project predicts hospital emergency department waiting time using machine learning models.  
